@@ -1,4 +1,4 @@
-## Winetricks Deployment (Not Recommended) {#winetricks-deployment-not-recommended}
+## Winetricks Deployment (Not Recommended)
 
 
 ### Notes {#notes}

@@ -6,7 +6,7 @@ Not all instal options are maintained equally, so you mileage my vary.
 
 ## Flatpak
 
-[ Flatpak Docs ](flatpak.md)
+[Pathos:Nethack Codex Flatpak Repo ](https://github.com/hydrian/pathos-flatpak)
 
 ## Lutris
 
@@ -16,7 +16,7 @@ Not all instal options are maintained equally, so you mileage my vary.
 
 [Wine Docs](wine.md)
 
-## Assistance  {#assistance}
+## Assistance  
 
 If you find issues with the documentation, please open a Github issue.
 
